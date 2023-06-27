@@ -3,5 +3,9 @@
     position:abolute;
     top:100%
 }
-.container_botao:checked~.lista-menu{display:block;}
-.cabeçalho{background-color:red}
+.container_botao:checked~.lista-menu{
+    display:block;
+}
+.cabeçalho{
+    background-color:red
+}
